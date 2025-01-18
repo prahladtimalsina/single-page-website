@@ -5,7 +5,7 @@
 
 ### Single-File Version  
 - Contains `index.html` with embedded CSS and JavaScript.  
-- Code is self-contained for simplicity.  
+
 
 ### Multi-File Version  
 - **`index.html`**: Contains the HTML structure and links to external CSS and JavaScript.  
